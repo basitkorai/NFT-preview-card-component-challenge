@@ -74,7 +74,7 @@ body {
 }
 
 .title:hover,
-.creator--name:hover {
+.creator__name:hover {
   color: hsl(178, 100%, 50%);
   cursor: pointer;
 }
