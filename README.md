@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/What I made.png)
+![](./images/What%20I%20made.png)
 
 ## My process
 ### Built with
