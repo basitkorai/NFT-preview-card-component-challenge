@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Google Font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+
+  <title>Frontend Mentor | NFT preview card component</title>
+
+  <link rel="stylesheet" href="./style.css">
+
+  <style>
+    .attribution {
+      margin-top: 4em;
+    }
+
+    .attribution,
+    a {
+      font-size: 1.5rem;
+      text-decoration: none;
+      color: #ffffff;
+
+    }
+
+    .attribution a:hover {
+      color: hsl(178, 100%, 50%);
+      font-weight: bold;
+      font-size: 1.45rem;
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+  <main class="main container">
+    <picture class="product__img">
+      <img src="./images/image-equilibrium.jpg" alt="">
+
+      <div>
+        <img class="product__img--hover" src="./images/icon-view.svg" alt="">
+      </div>
+
+
+    </picture>
+
+    <h1 class="title">Equilibrium #3429</h1>
+    <p class="description">
+      Our Equilibrium collection promotes balance and calm.
+    </p>
+
+    <div class="purchasing__details row">
+      <span class="row price">
+        <img src="./images/icon-ethereum.svg" alt="Ethereum">
+        0.041 ETH
+      </span>
+
+      <span class="row validity">
+        <img src="./images/icon-clock.svg" alt="Clock">
+        3 days left
+      </span>
+    </div>
+
+    <hr>
+
+    <div class="creator__details">
+      <picture class="avatar">
+        <img src="./images/image-avatar.png" alt="user's display picture">
+      </picture>
+
+      <p class="creator"> Creation of <span class="creator__name">Jules Wyvern</span></p>
+    </div>
+
+  </main>
+
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+    Coded by <a href="#">Basit Korai</a>.
+  </div>
+</body>
+
+
+</html>
