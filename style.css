@@ -9,11 +9,6 @@ img {
   max-width: 100%;
 }
 
-html {
-  place-content: center;
-  min-height: 100vh;
-}
-
 body {
   margin: auto 0;
   padding: 0;
@@ -22,6 +17,10 @@ body {
   background-color: hsl(217, 54%, 11%);
   color: #ffffff;
   overflow-x: hidden;
+
+  display: grid;
+  place-content: center;
+  min-height: 100vh;
 }
 
 .container {
