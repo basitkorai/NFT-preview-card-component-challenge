@@ -34,7 +34,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
--
+- 
 ### What I learned
 
 Hi, while coding this project I got a whole new perception of approaching development.
