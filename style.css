@@ -133,18 +133,18 @@ hr {
 }
 
 @media (max-width: 275px) {
-    .row {
-        display: block;
-    }
+  .row {
+    display: block;
+  }
 
 
-    .validity {
-        margin-top: 8px;
-    }
+  .validity {
+    margin-top: 8px;
+  }
 
-    .avatar img {
-        margin-right: 50px;
-    }
+  .avatar img {
+    margin-right: 50px;
+  }
 }
 
 @media (min-width: 375px) {
@@ -152,4 +152,3 @@ hr {
     box-shadow: 2px 2px 150px hsl(0, 0%, 0%);
   }
 }
-
