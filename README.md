@@ -34,7 +34,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- 
+  
 ### What I learned
 
 Hi, while coding this project I got a whole new perception of approaching development.
@@ -49,11 +49,11 @@ especially with that
 ```
 ### Continued development
 Moreover I wanna start using CSS Custom Properties, Sass and focus on CSS Grid.
-Really Eager to learn Javascript as soon as possible.
+Really eager to learn Javascript as soon as possible.
 
 ### Useful resources
 
-- [Kevin Powell](https://www.youtube.com/@KevinPowell) - Kevin Helped to make websites responsive, to get over my fear and start creating the real projects. Basically I have learned everything about css from him, he's a life-saver.
+- [Kevin Powell](https://www.youtube.com/@KevinPowell) - Kevin Helped me to make my websites responsive, to get over my fear and start creating the real projects. Basically I have learned everything about css from him, he's a life-saver.
 
 ## Author
 - Frontend Mentor - [@basit-flash](https://www.frontendmentor.io/profile/basit-flash)
