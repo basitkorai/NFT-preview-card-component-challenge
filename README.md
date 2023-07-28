@@ -56,5 +56,6 @@ Really eager to learn Javascript as soon as possible.
 - [Kevin Powell](https://www.youtube.com/@KevinPowell) - Kevin Helped me to make my websites responsive, to get over my fear and start creating the real projects. Basically I have learned everything about css from him, he's a life-saver.
 
 ## Author
+- [Basit Korai](https://basitkorai.netlify.app) - a self-taught Full Stack Developer.
 - Frontend Mentor - [@basit-flash](https://www.frontendmentor.io/profile/basit-flash)
 
